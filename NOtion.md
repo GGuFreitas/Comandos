@@ -19,6 +19,9 @@ Por isso, nesta semana vamos focar em reforçar algumas bases importantes da lin
     - Para que servem
     - Como utilizá-los na prática
     - Em quais situações cada um é mais indicado
+    
+    ## Métodos escolhidos
+    - Array.slice (inicialIndex, final index) extrai valores da seção do array com base nos index
 - [ ]  
     
     **Funções no JavaScript**
